@@ -1,1 +1,1 @@
-# Sayi_Tahmin
+c++ için sayı tahmin
